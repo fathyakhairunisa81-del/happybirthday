@@ -1,6 +1,6 @@
-## 🎉 Birthday Greeting Webpage 
+## 🎉 Birthday sayangkuu bebeyy 
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+[Demo](https://tya.github.io/happybirthday/)
 
 ## 🚀 How to Use
 
